@@ -2,22 +2,22 @@
 Performed end-to-end data analysis on 9,800+ movie records using Python to uncover trends in genre distribution, ratings, popularity, and audience engagement. Conducted data cleaning, feature engineering, and exploratory data analysis, followed by insightful visualizations using Matplotlib and Seaborn. Derived actionable insights to support content strategy and data-driven decision-making in the media and entertainment domain.
 
 ## Implementation Blueprint
-1️⃣ Data Import & Initial Exploration
-    * Loaded the Netflix dataset (mymoviedb.csv) using Pandas.
-    *Checked dataset shape, column names, data types, missing values, and duplicates to understand structure and data quality.
+1️⃣ Data Import & Initial Exploration:
+   * Loaded the Netflix dataset (mymoviedb.csv) using Pandas.
+   *Checked dataset shape, column names, data types, missing values, and duplicates to understand structure and data quality.
 
-2️⃣ Data Cleaning & Preprocessing.
-  *Converted Release_Date into datetime format.
-  *Extracted year from release date for trend analysis.
-  *Handled missing/null values and removed unnecessary columns (if applicable).
-  *Ensured numeric columns like Popularity, Vote_Average, and Vote_Count were correctly formatted.
+2️⃣ Data Cleaning & Preprocessing:
+   *Converted Release_Date into datetime format.
+   *Extracted year from release date for trend analysis.
+   *Handled missing/null values and removed unnecessary columns (if applicable).
+   *Ensured numeric columns like Popularity, Vote_Average, and Vote_Count were correctly formatted.
 
-3️⃣ Feature Understanding & Structuring
+3️⃣ Feature Understanding & Structuring:
   *Cleaned and analyzed Genre column (handled multi-genre entries).
   *Standardized column names for easier analysis.
   *Prepared structured dataset for visualization and insights extraction.
 
-4️⃣ Exploratory Data Analysis (EDA)
+4️⃣ Exploratory Data Analysis (EDA):
   *Analyzed distribution of movie ratings using histograms.
   *Identified most frequent genres.
   *Examined relationship between vote count and popularity.
