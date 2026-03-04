@@ -4,7 +4,7 @@ Performed end-to-end data analysis on 9,800+ movie records using Python to uncov
 ## Implementation Blueprint
 1️⃣ Data Import & Initial Exploration:
    * Loaded the Netflix dataset (mymoviedb.csv) using Pandas.
-   *Checked dataset shape, column names, data types, missing values, and duplicates to understand structure and data quality.
+   * Checked dataset shape, column names, data types, missing values, and duplicates to understand structure and data quality.
 
 2️⃣ Data Cleaning & Preprocessing:
    *Converted Release_Date into datetime format.
