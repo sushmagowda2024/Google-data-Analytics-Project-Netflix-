@@ -41,4 +41,4 @@ Performed end-to-end data analysis on 9,800+ movie records using Python to uncov
 🔗 LinkedIn: [sushmitha Gowda](https://www.linkedin.com/in/sushmithagowda2003/)
 
 ## Dashboard View
-[For Dashboard Click Here](https://github.com/sushmagowda2024/Manufacturing-Analytics-Project-Excel-SQL-Tableau-Power-BI-/blob/8b51e1f6ec58bc077ff1167338ae3153d2f60f9e/Manufacturing%20Analytics%20Excel.xlsx)
+[For Python Code Click Here](https://github.com/sushmagowda2024/Google-data-Analytics-Project-Netflix-/blob/main/Google_netflix_project.ipynb)
